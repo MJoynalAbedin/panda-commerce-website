@@ -1,0 +1,12 @@
+.panda-bg{
+    background-color:#feeae9;
+    margin-top: 100px;
+    border-radius: 1em;
+    height: 500px;
+}
+.img-con img{
+    width: 100px;
+}
+.rounded1{
+    border-radius: 10px;;
+}
