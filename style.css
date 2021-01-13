@@ -1,12 +1,25 @@
 .panda-bg{
     background-color:#feeae9;
-    margin-top: 100px;
+    margin-top: 50px;
     border-radius: 1em;
-    height: 500px;
+    height: 100%;
+    overflow: hidden;
 }
 .img-con img{
     width: 100px;
 }
 .rounded1{
     border-radius: 10px;;
+}
+.pad-had{
+    padding: 20px;
+}
+.pad-had img{
+    height: 95%;
+}
+.last-one{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #feeae9;
 }
